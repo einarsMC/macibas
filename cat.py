@@ -54,3 +54,5 @@ for produkts in produkti:
 
 
 import pandas as pd;
+
+# def
